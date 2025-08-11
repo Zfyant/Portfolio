@@ -12,9 +12,17 @@ I'm a detail-oriented analyst with a passion for building systems that make life
 
 ---
 
-## 🛠️ Technical Arsenal
+<div align="center">
 
-<div align="center" display="inline-block">
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Zfyant&show_icons=true&theme=radical&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Zfyant&layout=compact&theme=radical)
+
+---
+
+## 🛠️ Technical Arsenal
 
 ### Languages & Frameworks
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
@@ -112,18 +120,6 @@ Leading high-performance customer support in a complex, multi-system environment
 - **🔧 System Optimization:** Identified and resolved phone system lag issues, improving customer payment success rates
 - **📊 Process Innovation:** Developed streamlined metrics reporting system now used organization-wide
 - **⚡ Problem Solving:** Navigate complex insurance systems while managing high-stress customer interactions
-
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
-
-</div>
 
 ---
 
