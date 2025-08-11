@@ -40,7 +40,7 @@ I'm a detail-oriented analyst with a passion for building systems that make life
 
 ## 🚀 Featured Projects
 
-### 🏥 [Chart Forge](https://chart-forge.onrender.com)
+### 🏥 [Chart Forge](https://chart-forge.com)
 > **Data Integrity & Diagnostic System** | *In Production (WIP)*
 
 A secure, full-stack web application for congregating sensitive medical data with enterprise-level security protocols.
