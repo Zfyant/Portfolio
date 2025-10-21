@@ -48,11 +48,11 @@ I'm a detail-oriented analyst with a passion for building systems that make life
 
 A secure, full-stack web application for congregating sensitive medical data with enterprise-level security protocols.
 
-<center>
+<div align="center">
 
 ![ChartForge IMG](.assets/ChartForge.png)
 
-</center>
+</div>
 
 **🔧 Tech Stack:** Python, Flask, PostgreSQL, HTML/CSS/JS  
 **🎯 Key Features:**
@@ -70,11 +70,11 @@ A secure, full-stack web application for congregating sensitive medical data wit
 
 A comprehensive project management system with advanced analytics and real-time progress tracking.
 
-<center>
+<div align="center">
 
 ![Projectifier IMG](.assets/Projectifier.png)
 
-</center>
+</div>
 
 **🔧 Tech Stack:** Python, Flask, SQLite, JavaScript  
 **🎯 Key Features:**
@@ -91,11 +91,11 @@ A comprehensive project management system with advanced analytics and real-time 
 > **Career Recommendation System** | *In Development*
 
 A privacy-first, AI-powered web application that helps users discover their ideal career path by generating a comprehensive, personalized career profile.
-<center>
+<div align="center">
 
 ![CareerFinder IMG](.assets/CareerFinder.png)
 
-</center>
+</div>
 
 **🔧 Tech Stack:** HTML, CSS, JavaScript (Vanilla)  
 **🎯 Key Features:**
@@ -113,11 +113,11 @@ A privacy-first, AI-powered web application that helps users discover their idea
 
 A Flask-based web application designed to help users organize, track, and discover video games while connecting with other players.
 
-<center>
+<div align="center">
 
 ![GamerFinder IMG](.assets/GamerFinder.png)
 
-</center>
+</div>
 
 **🔧 Tech Stack:** Python, Flask, SQLAlchemy, SQLite, JavaScript  
 **🎯 Key Features:**
