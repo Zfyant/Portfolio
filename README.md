@@ -6,21 +6,12 @@
 
 ## 🎯 About Me
 
-I'm a detail-oriented analyst with a passion for building systems that make life easier. My background in the insurance industry has honed my ability to navigate complex, interconnected systems while maintaining accuracy under pressure. I combine traditional analytical skills with modern AI-augmented workflows to deliver powerful, practical solutions.
+I'm a detail-oriented analyst with a passion for building systems that make life easier by combining traditional analytical skills with modern AI-augmented workflows to deliver powerful, practical solutions.
 
 **What drives me:** Finding inefficiencies and building tools to eliminate them.
 
----
 
 <div align="center">
-
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Zfyant&show_icons=true&theme=radical&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Zfyant&layout=compact&theme=radical)
-
----
 
 ## 🛠️ Technical Arsenal
 
@@ -31,6 +22,8 @@ I'm a detail-oriented analyst with a passion for building systems that make life
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white">
 <img src="https://img.shields.io/badge/PHP-6e559e?style=for-the-badge&logo=php&logoColor=white">
 <img src="https://img.shields.io/badge/MD-4c9943?style=for-the-badge&logo=mdbook&logoColor=white">
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Zfyant&layout=compact&theme=radical)
 
 ### Databases & Tools
 <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white">
@@ -55,6 +48,12 @@ I'm a detail-oriented analyst with a passion for building systems that make life
 
 A secure, full-stack web application for congregating sensitive medical data with enterprise-level security protocols.
 
+<center>
+
+![ChartForge IMG](.assets/ChartForge.png)
+
+</center>
+
 **🔧 Tech Stack:** Python, Flask, PostgreSQL, HTML/CSS/JS  
 **🎯 Key Features:**
 - Role-based access controls with detailed audit logging
@@ -71,6 +70,12 @@ A secure, full-stack web application for congregating sensitive medical data wit
 
 A comprehensive project management system with advanced analytics and real-time progress tracking.
 
+<center>
+
+![Projectifier IMG](.assets/Projectifier.png)
+
+</center>
+
 **🔧 Tech Stack:** Python, Flask, SQLite, JavaScript  
 **🎯 Key Features:**
 - Dynamic metrics tracking with completion rate analysis
@@ -79,6 +84,49 @@ A comprehensive project management system with advanced analytics and real-time 
 - Interactive data visualization dashboard
 
 **📊 Impact:** Improved project delivery accuracy and team productivity metrics
+
+---
+
+### 📋 [Career Finder](https://github.com/Zfyant/Career_Finder)
+> **Career Recommendation System** | *In Development*
+
+A privacy-first, AI-powered web application that helps users discover their ideal career path by generating a comprehensive, personalized career profile.
+<center>
+
+![CareerFinder IMG](.assets/CareerFinder.png)
+
+</center>
+
+**🔧 Tech Stack:** HTML, CSS, JavaScript (Vanilla)  
+**🎯 Key Features:**
+- **100% Browser-Based:** All data processing happens locally; no server-side data storage ensures complete user privacy.
+- **AI-Powered Insights:** Generates a detailed career profile ready for use with LLMs like ChatGPT, Claude, and Gemini for personalized job recommendations.
+- **Intuitive UI:** A step-by-step, progressively loaded form that makes the process fast and engaging.
+- **Modular Codebase:** Built with a clean, modular JavaScript architecture for easy maintenance and future scalability.
+
+**📊 Impact:** Empowers users to move beyond guesswork and gain deep, actionable insights into their professional strengths, passions, and ideal work environments.
+
+---
+
+### 🎮 [Gamer Finder](https://github.com/Zfyant/Gamer_Finder)
+> **Game Recommendation & Social Platform** | *In Development*
+
+A Flask-based web application designed to help users organize, track, and discover video games while connecting with other players.
+
+<center>
+
+![GamerFinder IMG](.assets/GamerFinder.png)
+
+</center>
+
+**🔧 Tech Stack:** Python, Flask, SQLAlchemy, SQLite, JavaScript  
+**🎯 Key Features:**
+- **Robust Game Sync:** A powerful CLI command (`sync-games`) with a handler-based strategy pattern to synchronize game data from the Steam API, featuring exponential backoff for rate limiting and resumable syncs.
+- **Social Connections:** Users can search for friends, send/manage connection requests, and view their friends list.
+- **Dynamic Dashboard:** An interactive "Game Finder" dashboard to discover games and manage personal lists (Favorited, Liked, Disliked).
+- **Modular & Secure:** Built with Flask Blueprints, modular front-end files, and CSRF protection for all user actions.
+
+**📊 Impact:** Provides a centralized platform for game discovery and social interaction, with a highly resilient data synchronization backend to ensure data integrity.
 
 ---
 
@@ -91,9 +139,8 @@ A comprehensive project management system with advanced analytics and real-time 
 |--------|---------|----------|
 | **[LineCounter](https://github.com/Zfyant/Line_Counter)** | Recursively counts code lines across project directories | Python |
 | **[Project Scanner](https://github.com/Zfyant/Summarizer)** | Analyzes and summarizes project structure with file diversity metrics | Python |
-| **Backup Automation** | Intelligent backup system with size optimization and selective file exclusion | Batch/PowerShell |
-| **Image Aggregator** | Bulk image collection and organization across directory structures | Python |
-| **PNG to ICO Converter** | Streamlined icon conversion for Windows applications | Python |
+| **One-Click-Backup** | Intelligent directory backup system with size optimization and selective file exclusion | Batch/PowerShell |
+
 
 </details>
 
@@ -161,7 +208,9 @@ I'm always interested in discussing innovative solutions, collaborative projects
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Zfyant&show_icons=true&theme=radical&count_private=true)
+
+[![LinkedIn](https://img.shields.io/badge/Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)<br>
 *(Link Coming Soon)*
 
 </div>
