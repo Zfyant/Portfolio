@@ -87,7 +87,7 @@ A comprehensive project management system with advanced analytics and real-time 
 
 ---
 
-### 📋 [Career Finder](https://github.com/Zfyant/Career_Finder)
+### 📋 [Career Finder](https://zfyant.github.io/career-finder/)
 > **Career Recommendation System** | *In Development*
 
 A privacy-first, AI-powered web application that helps users discover their ideal career path by generating a comprehensive, personalized career profile.
