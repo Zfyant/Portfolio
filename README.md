@@ -108,7 +108,7 @@ A privacy-first, AI-powered web application that helps users discover their idea
 
 ---
 
-### 🎮 [Gamer Finder](https://github.com/Zfyant/Gamer_Finder)
+### 🎮 [Gamer Finder](https://github.com/Zfyant/gamer-finder)
 > **Game Recommendation & Social Platform** | *In Development*
 
 A Flask-based web application designed to help users organize, track, and discover video games while connecting with other players.
