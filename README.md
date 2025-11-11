@@ -43,8 +43,8 @@ I'm a detail-oriented analyst with a passion for building systems that make life
 
 ## 🚀 Featured Projects
 
-### 🏥 [Chart Forge](https://chart-forge.com)
-> **Data Integrity & Diagnostic System** | *In Production (WIP)*
+### 🏥 [Chart Forge](https://github.com/Zfyant/chart-forge-preview) 
+> **Data Integrity & Diagnostic System** | *In Production (WIP)*  [Live test](https://chart-forge.com)
 
 A secure, full-stack web application for congregating sensitive medical data with enterprise-level security protocols.
 
@@ -138,8 +138,8 @@ A Flask-based web application designed to help users organize, track, and discov
 | Script | Purpose | Language |
 |--------|---------|----------|
 | **[LineCounter](https://github.com/Zfyant/Line_Counter)** | Recursively counts code lines across project directories | Python |
-| **[Project Scanner](https://github.com/Zfyant/Summarizer)** | Analyzes and summarizes project structure with file diversity metrics | Python |
-| **One-Click-Backup** | Intelligent directory backup system with size optimization and selective file exclusion | Batch/PowerShell |
+| **[Directory Summarizer](https://github.com/Zfyant/Summarizer)** | Analyzes and summarizes project structure with file diversity metrics | Python |
+| **[1-Click-Backup](https://github.com/Zfyant/1-click-backup)** | Intelligent directory backup system with size optimization and selective file exclusion | Batch/PowerShell |
 
 
 </details>
